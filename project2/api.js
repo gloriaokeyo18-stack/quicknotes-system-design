@@ -153,3 +153,4 @@ noteForm.addEventListener("submit", async (e) => {
 
 // Attach event listener to load button
 loadBtn.addEventListener("click", loadNotes);
+// End of API client logic
